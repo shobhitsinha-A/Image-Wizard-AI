@@ -74,10 +74,10 @@ export async function POST(req: Request) {
       lastName: last_name,
       photo: image_url,
     };
-
+    //creating user in mongoose mongodb by using server action created in user.actions.ts
     const newUser = await createUser(user);
 
-    // Set public metadata
+    // Set public metadata //merge clerk id with user id
     if (newUser) {
       await clerkClient.users.updateUserMetadata(id, {
         publicMetadata: {
