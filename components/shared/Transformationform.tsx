@@ -42,7 +42,7 @@ export const formSchema = z.object({
 
 // use transition is like useState except it does not block UI
 
-const Transformationform = ({
+const TransformationForm = ({
   action,
   data = null,
   userId,
@@ -245,4 +245,4 @@ const Transformationform = ({
   );
 };
 
-export default Transformationform;
+export default TransformationForm;
