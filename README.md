@@ -35,6 +35,14 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Working 
+##  Website
 <img width="1439" alt="Screenshot 2024-05-09 at 10 22 32 PM" src="https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/e5d73c58-c846-4249-a511-f2e80edb3765">
+<img width="1440" alt="Screenshot 2024-05-09 at 10 22 58 PM" src="https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/29b24007-0cda-4f09-be46-46f398896daf">
+<img width="722" alt="Screenshot 2024-05-09 at 10 23 09 PM" src="https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/8820d8d4-2ab1-445a-b7e5-be246c27741d">
+<img width="721" alt="Screenshot 2024-05-09 at 10 23 21 PM" src="https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/f597711f-7013-4e34-b459-a9dd019fc2ea">
+<img width="721" alt="Screenshot 2024-05-09 at 10 23 28 PM" src="https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/44e949a6-8530-46ed-aa86-a28872569658">
+
+
+
+
 
