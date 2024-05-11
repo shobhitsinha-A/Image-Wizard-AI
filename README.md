@@ -1,3 +1,18 @@
+### Image Wizard AI - Next.js SaaS App
+
+## Overview
+
+This project is a Software-as-a-Service (SaaS) application built with Next.js 14, Cloudinary AI, Clerk, and Stripe. The app allows users to upload, manage, and monetize AI-transformed images through a seamless and secure platform. Users can authenticate using Clerk, upload images, apply AI transformations using Cloudinary, and purchase credits for image processing using Stripe.
+
+## Features
+
+User authentication using Clerk
+Image upload with Cloudinary Media Uploader
+AI transformation of images using Cloudinary AI
+Monetization through Stripe payment integration
+Search and pagination functionality
+User-friendly interface with responsive layout
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
