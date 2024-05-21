@@ -98,9 +98,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Website
 
 ![Screenshot 1](https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/e5d73c58-c846-4249-a511-f2e80edb3765)
+---
 ![Screenshot 2](https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/29b24007-0cda-4f09-be46-46f398896daf)
+---
 ![Screenshot 3](https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/8820d8d4-2ab1-445a-b7e5-be246c27741d)
+---
 ![Screenshot 4](https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/f597711f-7013-4e34-b459-a9dd019fc2ea)
+---
 ![Screenshot 5](https://github.com/shobhitsinha-A/Image-Wizard-AI/assets/64719272/44e949a6-8530-46ed-aa86-a28872569658)
 
 ## Deploy on Vercel
