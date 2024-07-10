@@ -1,6 +1,6 @@
 #### Image Wizard AI - Next.js SaaS App 
 
-### Live: https://image-wizard-ai.vercel.app/sign-in
+### Live: https://image-wizard-ai.vercel.app/sign-up?redirect_url=https%3A%2F%2Fimage-wizard-ai.vercel.app%2Fsign_in
 
 ## Overview
 
